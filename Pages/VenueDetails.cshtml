@@ -1,0 +1,17 @@
+﻿@page "{id:int}"
+@model CLDV6211_ST10294003.Pages.VenueDetailsModel
+@{
+    ViewData["Title"] = "Venue Details";
+}
+
+<div class="container mt-4">
+    <div class="card shadow rounded">
+        <img src="@Model.ImageUrl" class="card-img-top rounded-top" alt="@Model.Name">
+        <div class="card-body">
+            <h3>@Model.Name</h3>
+            <p>@Model.Description</p>
+            <h5 class="text-primary">Price: @Model.Price</h5>
+            <a asp-page="/Venue" class="btn btn-outline-primary mt-3">Back to Venues</a>
+        </div>
+    </div>
+</div>

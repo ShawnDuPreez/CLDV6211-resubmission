@@ -1,0 +1,24 @@
+﻿@page
+@model CLDV6211_ST10294003.Pages.BookingModel
+@{
+    ViewData["Title"] = "Bookings";
+}
+
+<h2>Make a Booking</h2>
+<img src="https://via.placeholder.com/600x200?text=Booking+Image" class="placeholder" alt="Booking" />
+
+<form method="post" class="shadow p-4 bg-white rounded">
+    <div class="form-group mb-3">
+        <label asp-for="CustomerName" class="form-label">Customer Name</label>
+        <input asp-for="CustomerName" class="form-control" />
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="EventName" class="form-label">Event</label>
+        <input asp-for="EventName" class="form-control" />
+    </div>
+    <div class="form-group mb-3">
+        <label asp-for="NumTickets" class="form-label">Tickets</label>
+        <input asp-for="NumTickets" type="number" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-success w-100">Confirm Booking</button>
+</form>

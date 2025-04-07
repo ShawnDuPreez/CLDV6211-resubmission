@@ -1,0 +1,28 @@
+﻿@page
+@model CLDV6211_ST10294003.Pages.VenueModel
+@{
+    ViewData["Title"] = "Venues";
+}
+
+<h2 class="text-center mb-4">Select a Venue</h2>
+
+<div class="row">
+    <div class="col-md-4 text-center">
+        <a asp-page="/VenueDetails" asp-route-id="1">
+            <img src="https://www.wheresmywedding.co.za/sites/default/files/images/blog/Shepstone-Gardens-Wedding-Venue-Johannesburg-Gauteng-Reception-Glass-Marquee_0.jpg" class="img-fluid rounded shadow mb-2" alt="Glass Marquee" style="width:414px; height:282px;" />
+            <h5>Grand Hall</h5>
+        </a>
+    </div>
+    <div class="col-md-4 text-center">
+        <a asp-page="/VenueDetails" asp-route-id="2">
+            <img src="https://www.conferences.co.za/images/riverside-sun-01-786x416.jpg" class="img-fluid rounded shadow mb-2" alt="Riverside Venue" style="width:414px; height:282px;" />
+            <h5>Riverside Venue</h5>
+        </a>
+    </div>
+    <div class="col-md-4 text-center">
+        <a asp-page="/VenueDetails" asp-route-id="3">
+            <img src="https://thewed.com/storage/blog-uploads/2021/April/desktop-retina/QQ8UerC9xX5iM1hhKroX.jpg" class="img-fluid rounded shadow mb-2" alt="City Conference Center" style="width:414px; height:282px;" />
+            <h5>City Conference Center</h5>
+        </a>
+    </div>
+</div>
