@@ -3,22 +3,36 @@
 @{
     ViewData["Title"] = "Bookings";
 }
+<!-- Booking form for users to make a reservation -->
 
+<!-- Form heading -->
 <h2>Make a Booking</h2>
+
+<!-- Placeholder image for visual context -->
 <img src="https://via.placeholder.com/600x200?text=Booking+Image" class="placeholder" alt="Booking" />
 
+<!-- Start of the booking form - uses POST method -->
 <form method="post" class="shadow p-4 bg-white rounded">
+    
+    <!-- Customer name input field -->
     <div class="form-group mb-3">
         <label asp-for="CustomerName" class="form-label">Customer Name</label>
         <input asp-for="CustomerName" class="form-control" />
     </div>
+
+    <!-- Event name input field -->
     <div class="form-group mb-3">
         <label asp-for="EventName" class="form-label">Event</label>
         <input asp-for="EventName" class="form-control" />
     </div>
+
+    <!-- Number of tickets input field -->
     <div class="form-group mb-3">
         <label asp-for="NumTickets" class="form-label">Tickets</label>
         <input asp-for="NumTickets" type="number" class="form-control" />
     </div>
+
+    <!-- Submit button to confirm booking -->
     <button type="submit" class="btn btn-success w-100">Confirm Booking</button>
+
 </form>

@@ -2,6 +2,7 @@
 
 namespace CLDV6211_ST10294003.Models
 {
+    // Represents a booking, linking an event and a venue with a booking date.
     public class Booking
     {
         public int BookingId { get; set; }

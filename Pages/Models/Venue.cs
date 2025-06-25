@@ -1,5 +1,6 @@
 ﻿namespace CLDV6211_ST10294003.Models
 {
+    // Represents a venue with name, location, and capacity.
     public class Venue
     {
         public int VenueId { get; set; }

@@ -4739,11 +4739,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\v6dri\\OneDrive\\Desktop\\CLDV6211_ST10294003\\CLDV6211_ST10294003\\CLDV6211_ST10294003.csproj",
+      "projectUniqueName": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\CLDV6211_ST10294003.csproj",
       "projectName": "CLDV6211_ST10294003",
-      "projectPath": "C:\\Users\\v6dri\\OneDrive\\Desktop\\CLDV6211_ST10294003\\CLDV6211_ST10294003\\CLDV6211_ST10294003.csproj",
+      "projectPath": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\CLDV6211_ST10294003.csproj",
       "packagesPath": "C:\\Users\\v6dri\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\v6dri\\OneDrive\\Desktop\\CLDV6211_ST10294003\\CLDV6211_ST10294003\\obj\\",
+      "outputPath": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

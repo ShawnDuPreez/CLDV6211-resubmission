@@ -1,23 +1,39 @@
 ﻿<!DOCTYPE html>
 <html lang="en">
 <head>
+    <!-- Specifies the character encoding for the document -->
     <meta charset="utf-8" />
+
+    <!-- Ensures proper rendering and touch zooming on mobile devices -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <!-- Sets the title of the page dynamically from the ViewData dictionary -->
     <title>@ViewData["Title"] - EventEase</title>
+
+    <!-- Links the Bootstrap CSS file from the local library -->
     <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+
+    <!-- Links the site's custom stylesheet and enables cache busting with asp-append-version -->
     <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
 </head>
 <body>
+    <!-- Bootstrap dark-themed navigation bar -->
     <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
         <div class="container">
+            <!-- Brand name that navigates to the Index Razor Page -->
             <a class="navbar-brand" asp-page="/Index">EventEase</a>
+
+            <!-- Right-aligned navigation items -->
             <ul class="navbar-nav ms-auto">
+                <!-- Link to the Events page -->
                 <li class="nav-item">
                     <a class="nav-link" asp-page="/Event">Events</a>
                 </li>
+                <!-- Link to the Bookings page -->
                 <li class="nav-item">
                     <a class="nav-link" asp-page="/Booking">Bookings</a>
                 </li>
+                <!-- Link to the Venues page -->
                 <li class="nav-item">
                     <a class="nav-link" asp-page="/Venue">Venues</a>
                 </li>
@@ -25,13 +41,21 @@
         </div>
     </nav>
 
+    <!-- Main content container with top margin -->
     <div class="container mt-4">
+        <!-- Renders the content of the current Razor page -->
         @RenderBody()
     </div>
+
+    <!-- Footer section with light background and centered text -->
     <footer class="bg-light text-center py-3 mt-5 border-top">
         <small>&copy; 2025 - EventEase - All rights reserved</small>
     </footer>
+
+    <!-- Loads the Bootstrap JavaScript bundle from the local library -->
     <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    <!-- Optionally renders a section named "Scripts" defined in Razor pages -->
     @await RenderSectionAsync("Scripts", required: false)
 </body>
 </html>

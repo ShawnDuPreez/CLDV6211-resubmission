@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Dj+U0uC0Bo=",
+  "dgSpecHash": "uQayaEJysDA=",
   "success": true,
-  "projectFilePath": "C:\\Users\\v6dri\\OneDrive\\Desktop\\CLDV6211_ST10294003\\CLDV6211_ST10294003\\CLDV6211_ST10294003.csproj",
+  "projectFilePath": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\CLDV6211_ST10294003.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\v6dri\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\v6dri\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

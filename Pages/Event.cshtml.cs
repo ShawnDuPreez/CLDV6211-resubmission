@@ -15,12 +15,17 @@ namespace CLDV6211_ST10294003.Pages
         [BindProperty]
         public string Description { get; set; }
 
-        public void OnGet() { }
+        public void OnGet()
+        {
+            // Handles GET requests for the event page (e.g., display form or data)
+        }
 
         public IActionResult OnPost()
         {
-            // Here you can add logic to save the event to the database using your DbContext.
+            // Handles POST requests to create a new event (form submission)
             return Page();
         }
     }
 }
+//(Microsoft, 2024 (Razor Pages); Troelsen & Japikse, 2022)
+// See references in Program.cs

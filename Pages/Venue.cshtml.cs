@@ -14,12 +14,17 @@ namespace CLDV6211_ST10294003.Pages
         [BindProperty]
         public int Capacity { get; set; }
 
-        public void OnGet() { }
+        public void OnGet()
+        {
+            // Handles GET requests for the venue page (e.g., display form)
+        }
 
         public IActionResult OnPost()
         {
-            // Here you can add logic to save the venue to the database using your DbContext.
+            // Handles POST requests to process venue creation or updates
             return Page();
         }
     }
 }
+//(Microsoft, 2024 (Razor Pages); Troelsen & Japikse, 2022)
+// See references in Program.cs

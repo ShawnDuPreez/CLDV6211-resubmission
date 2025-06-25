@@ -16,12 +16,16 @@ namespace CLDV6211_ST10294003.Pages
 
         public void OnGet()
         {
+            // Handles GET requests for the booking page (e.g., display form)
         }
 
         public IActionResult OnPost()
         {
-            // Handle booking submission logic here
+            // Handles POST requests to process a booking submission
             return Page();
         }
     }
 }
+
+// See references in Program.cs
+//(Microsoft, 2024 (Razor Pages); Troelsen & Japikse, 2022)

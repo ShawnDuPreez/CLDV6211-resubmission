@@ -4,21 +4,37 @@
     ViewData["Title"] = "Events";
 }
 
+<!-- Form to create a new event -->
 <h2>Create an Event</h2>
-<img src="https://via.placeholder.com/600x200?text=Event+Image" alt="Event" class="img-fluid rounded shadow mb-2" />
 
+<!-- Placeholder image displayed above the form -->
+<img src="https://via.placeholder.com/600x200?text=Event+Image"
+     alt="Event"
+     class="img-fluid rounded shadow mb-2" />
+
+<!-- Start of event creation form using POST method -->
 <form method="post" class="shadow p-4 bg-white rounded">
+    
+    <!-- Input for Event Name -->
     <div class="form-group mb-3">
         <label asp-for="EventName" class="form-label">Event Name</label>
         <input asp-for="EventName" class="form-control" />
     </div>
+
+    <!-- Input for Event Date (calendar/date picker) -->
     <div class="form-group mb-3">
         <label asp-for="EventDate" class="form-label">Event Date</label>
         <input asp-for="EventDate" type="date" class="form-control" />
     </div>
+
+    <!-- Text area for entering the Event Description -->
     <div class="form-group mb-3">
         <label asp-for="Description" class="form-label">Description</label>
         <textarea asp-for="Description" class="form-control" rows="3"></textarea>
     </div>
+
+    <!-- Submit button to save the event -->
     <button type="submit" class="btn btn-primary w-100">Save Event</button>
+
 </form>
+

@@ -24,5 +24,5 @@ namespace CLDV6211_ST10294003.Pages
             RequestId = Activity.Current?.Id ?? HttpContext.TraceIdentifier;
         }
     }
-
+    //(Microsoft, 2024 (Razor Pages); Troelsen & Japikse, 2022)
 }

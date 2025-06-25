@@ -1,3 +1,8 @@
+/*
+ * Custom styles for EventEase project
+ * Some layout and utility classes inspired by Bootstrap (Bootstrap, 2025)
+ * For Razor Pages and .NET styling, see: (Microsoft, 2024). Get started with Razor Pages in ASP.NET Core.
+ */
 body {
     background-color: #f8f9fa;
     font-family: 'Segoe UI', sans-serif;

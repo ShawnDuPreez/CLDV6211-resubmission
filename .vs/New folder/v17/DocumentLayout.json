@@ -1,0 +1,407 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|c:\\users\\v6dri\\onedrive\\uni\\y3\\sem 1\\cldv6211\\new folder\\pages\\venue.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|solutionrelative:pages\\venue.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|c:\\users\\v6dri\\onedrive\\uni\\y3\\sem 1\\cldv6211\\new folder\\pages\\venue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|solutionrelative:pages\\venue.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|c:\\users\\v6dri\\onedrive\\uni\\y3\\sem 1\\cldv6211\\new folder\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|c:\\users\\v6dri\\onedrive\\uni\\y3\\sem 1\\cldv6211\\new folder\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|c:\\users\\v6dri\\onedrive\\uni\\y3\\sem 1\\cldv6211\\new folder\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|c:\\users\\v6dri\\onedrive\\uni\\y3\\sem 1\\cldv6211\\new folder\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|c:\\users\\v6dri\\onedrive\\uni\\y3\\sem 1\\cldv6211\\new folder\\pages\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|solutionrelative:pages\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|c:\\users\\v6dri\\onedrive\\uni\\y3\\sem 1\\cldv6211\\new folder\\pages\\event.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|solutionrelative:pages\\event.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|c:\\users\\v6dri\\onedrive\\uni\\y3\\sem 1\\cldv6211\\new folder\\pages\\event.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|solutionrelative:pages\\event.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|c:\\users\\v6dri\\onedrive\\uni\\y3\\sem 1\\cldv6211\\new folder\\pages\\venuedetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|solutionrelative:pages\\venuedetails.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|c:\\users\\v6dri\\onedrive\\uni\\y3\\sem 1\\cldv6211\\new folder\\pages\\booking.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|solutionrelative:pages\\booking.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|c:\\users\\v6dri\\onedrive\\uni\\y3\\sem 1\\cldv6211\\new folder\\pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|solutionrelative:pages\\error.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|c:\\users\\v6dri\\onedrive\\uni\\y3\\sem 1\\cldv6211\\new folder\\pages\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|solutionrelative:pages\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|c:\\users\\v6dri\\onedrive\\uni\\y3\\sem 1\\cldv6211\\new folder\\pages\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|solutionrelative:pages\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|c:\\users\\v6dri\\onedrive\\uni\\y3\\sem 1\\cldv6211\\new folder\\pages\\venuedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|solutionrelative:pages\\venuedetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|c:\\users\\v6dri\\onedrive\\uni\\y3\\sem 1\\cldv6211\\new folder\\pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|solutionrelative:pages\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|c:\\users\\v6dri\\onedrive\\uni\\y3\\sem 1\\cldv6211\\new folder\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|c:\\users\\v6dri\\onedrive\\uni\\y3\\sem 1\\cldv6211\\new folder\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|c:\\users\\v6dri\\onedrive\\uni\\y3\\sem 1\\cldv6211\\new folder\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|solutionrelative:pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|c:\\users\\v6dri\\onedrive\\uni\\y3\\sem 1\\cldv6211\\new folder\\pages\\booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|solutionrelative:pages\\booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|c:\\users\\v6dri\\onedrive\\uni\\y3\\sem 1\\cldv6211\\new folder\\pages\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D007F1AC-4865-CFC6-DB55-C477B354F78B}|CLDV6211_ST10294003.csproj|solutionrelative:pages\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 459,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-25T20:35:14.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-06-25T20:33:32.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:26:13.334Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VenueDetails.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\VenueDetails.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\VenueDetails.cshtml.cs",
+              "ToolTip": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\VenueDetails.cshtml.cs",
+              "RelativeToolTip": "Pages\\VenueDetails.cshtml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAswC4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:25:14.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Venue.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Venue.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Venue.cshtml.cs",
+              "ToolTip": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Venue.cshtml.cs",
+              "RelativeToolTip": "Pages\\Venue.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:25:03.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "Pages\\Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Models\\Venue.cs",
+              "RelativeToolTip": "Pages\\Models\\Venue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:23:25.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "Pages\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Models\\Event.cs",
+              "RelativeToolTip": "Pages\\Models\\Event.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:23:24.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Event.cshtml",
+              "DocumentMoniker": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Event.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Event.cshtml",
+              "ToolTip": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Event.cshtml",
+              "RelativeToolTip": "Pages\\Event.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T20:23:58.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Event.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Event.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Event.cshtml.cs",
+              "ToolTip": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Event.cshtml.cs",
+              "RelativeToolTip": "Pages\\Event.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:24:03.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Error.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Error.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml.cs",
+              "ToolTip": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Error.cshtml.cs",
+              "RelativeToolTip": "Pages\\Error.cshtml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:23:54.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Booking.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Booking.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Booking.cshtml.cs",
+              "ToolTip": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Booking.cshtml.cs",
+              "RelativeToolTip": "Pages\\Booking.cshtml.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwB4AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:23:35.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Venue.cshtml",
+              "DocumentMoniker": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Venue.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Venue.cshtml",
+              "ToolTip": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Venue.cshtml",
+              "RelativeToolTip": "Pages\\Venue.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T20:24:56.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Pages\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Pages\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:23:06.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T20:23:26.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "VenueDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\VenueDetails.cshtml",
+              "RelativeDocumentMoniker": "Pages\\VenueDetails.cshtml",
+              "ToolTip": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\VenueDetails.cshtml",
+              "RelativeToolTip": "Pages\\VenueDetails.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T20:25:07.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Privacy.cshtml",
+              "RelativeToolTip": "Pages\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T20:24:54.931Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:24:53.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T20:24:09.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Error.cshtml",
+              "ToolTip": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Pages\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T20:23:40.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Booking.cshtml",
+              "DocumentMoniker": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Booking.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Booking.cshtml",
+              "ToolTip": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Booking.cshtml",
+              "RelativeToolTip": "Pages\\Booking.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-25T20:23:33.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Pages\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\v6dri\\OneDrive\\Uni\\Y3\\SEM 1\\CLDV6211\\New folder\\Pages\\Models\\Booking.cs",
+              "RelativeToolTip": "Pages\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T20:23:18.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 10,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

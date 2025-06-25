@@ -2,6 +2,7 @@
 
 namespace CLDV6211_ST10294003.Models
 {
+    // Represents an event with its details (name, date, description).
     public class Event
     {
         public int EventId { get; set; }
